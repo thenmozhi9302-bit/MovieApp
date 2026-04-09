@@ -1,0 +1,18 @@
+.app {
+  display: grid;
+  grid-template-rows: 80px auto;
+
+}
+
+.navbar {
+  background-color :black;
+  color: white;
+  padding :20px;
+}
+
+main {
+  
+  padding: 20px;
+  
+}
+  
